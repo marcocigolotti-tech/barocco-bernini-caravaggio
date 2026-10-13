@@ -1,0 +1,9 @@
+BAROCCO, BERNINI E CARAVAGGIO — EDIZIONE WIKIMEDIA COMMONS
+
+Caricare index.html e FONTI_IMMAGINI.txt nella radice del repository GitHub e attivare Pages da Settings > Pages.
+
+IMPORTANTE: Le immagini sono collegate direttamente a Wikimedia Commons: Internet è necessario per vederle. Non sono più usate immagini estratte dai PDF. Le fotografie non sono incorporate nello ZIP perché il servizio di scaricamento dei file originali non era accessibile durante la preparazione.
+
+Per una versione completamente autonoma, scaricare i file dalle pagine indicate in FONTI_IMMAGINI.txt e aggiornare le URL nel codice. Prima della redistribuzione verificare tutte le licenze e i crediti.
+
+Autore: Ideato dal Prof. Marco Cigolotti.
